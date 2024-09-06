@@ -1,0 +1,31 @@
+@using MengGrocery.Models 
+@model CartViewModel 
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers 
+
+
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="cart-page container">
+
+    <h1>Your Cart</h1>
+
+    <div class="cart-list">
+        
+        <partial name="_CartList" model="Model" />
+    </div>
+
+    
+    @Html.ActionLink("Proceed to Checkout", "Index", "Checkout", new { area = "Checkout" })
+    
+
+</div>
+
+
+
+
+
+
+

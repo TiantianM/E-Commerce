@@ -1,0 +1,45 @@
+@using MengGrocery.Models 
+@model RegisterViewModel 
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers 
+
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Log in";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form id="registerForm" method="post" asp-area="Account" asp-controller="Account" asp-action="Register">
+            <h2>Create a new account.</h2>
+            <hr />
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(m => m.ReturnUrl)
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-floating mb-3">
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control", autocomplete = "username", aria_required = "true"})
+                @Html.LabelFor(m => m.Email, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-floating mb-3">
+                @Html.TextBoxFor(m => m.Password, new { @class = "form-control", autocomplete = "new-password", aria_required = "true" })
+                @Html.LabelFor(m => m.Password, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+
+            </div>
+            <div class="form-floating mb-3">
+                @Html.TextBoxFor(m => m.ConfirmPassword, new { @class = "form-control", autocomplete = "new-password", aria_required = "true" })
+                @Html.LabelFor(m => m.ConfirmPassword, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+
+            </div>
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/obj/Debug/net6.0/scopedcss/projectbundle/MengGrocery.bundle.scp.css",
+      "PackagePath": "staticwebassets/MengGrocery.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/AlmondMilk.jpg",
+      "PackagePath": "staticwebassets/images/AlmondMilk.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/Cheddar.jpg",
+      "PackagePath": "staticwebassets/images/Cheddar.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/ChickenBreast.jpg",
+      "PackagePath": "staticwebassets/images/ChickenBreast.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/GreekYogurt.jpg",
+      "PackagePath": "staticwebassets/images/GreekYogurt.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/Quinoa.jpg",
+      "PackagePath": "staticwebassets/images/Quinoa.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/Spinach.jpg",
+      "PackagePath": "staticwebassets/images/Spinach.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/Tomatoes.jpg",
+      "PackagePath": "staticwebassets/images/Tomatoes.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/WholeWheatBread.jpg",
+      "PackagePath": "staticwebassets/images/WholeWheatBread.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/avocado.jpg",
+      "PackagePath": "staticwebassets/images/avocado.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/cart.jpg",
+      "PackagePath": "staticwebassets/images/cart.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/eggs.jpg",
+      "PackagePath": "staticwebassets/images/eggs.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/images/loading.jpg",
+      "PackagePath": "staticwebassets/images/loading.jpg"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.MengGrocery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.MengGrocery.props",
+      "PackagePath": "build\\MengGrocery.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MengGrocery.props",
+      "PackagePath": "buildMultiTargeting\\MengGrocery.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MengGrocery.props",
+      "PackagePath": "buildTransitive\\MengGrocery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

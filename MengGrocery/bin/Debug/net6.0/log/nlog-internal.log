@@ -1,0 +1,672 @@
+2024-08-08 17:37:11.8124 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 17:37:11.8256 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 17:37:11.8476 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 17:37:11.8480 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 17:37:11.8480 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 17:37:11.8531 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 17:37:11.9109 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 17:37:11.9158 Info Configuration initialized.
+2024-08-08 17:39:49.1035 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 17:39:49.1176 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 17:39:49.1408 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 17:39:49.1408 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 17:39:49.1416 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 17:39:49.1464 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 17:39:49.2002 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 17:39:49.2047 Info Configuration initialized.
+2024-08-08 17:40:56.7063 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 17:40:56.7206 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 17:40:56.7416 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 17:40:56.7420 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 17:40:56.7420 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 17:40:56.7471 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 17:40:56.7967 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 17:40:56.8010 Info Configuration initialized.
+2024-08-08 17:47:45.1222 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 17:47:45.1345 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 17:47:45.1543 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 17:47:45.1544 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 17:47:45.1544 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 17:47:45.1596 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 17:47:45.2106 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 17:47:45.2151 Info Configuration initialized.
+2024-08-08 17:54:23.2155 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 17:54:23.2285 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 17:54:23.2483 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 17:54:23.2483 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 17:54:23.2489 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 17:54:23.2535 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 17:54:23.3042 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 17:54:23.3087 Info Configuration initialized.
+2024-08-08 17:59:35.6469 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 17:59:35.6604 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 17:59:35.6812 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 17:59:35.6817 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 17:59:35.6817 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 17:59:35.6868 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 17:59:35.7395 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 17:59:35.7437 Info Configuration initialized.
+2024-08-08 18:20:39.1347 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 18:20:39.1579 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 18:20:39.1797 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 18:20:39.1801 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 18:20:39.1801 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 18:20:39.1850 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 18:20:39.2369 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 18:20:39.2410 Info Configuration initialized.
+2024-08-08 18:34:43.9649 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 18:34:43.9772 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 18:34:43.9972 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 18:34:43.9972 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 18:34:43.9978 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 18:34:44.0022 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 18:34:44.0538 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 18:34:44.0584 Info Configuration initialized.
+2024-08-08 18:34:56.9011 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 18:34:56.9136 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 18:34:56.9338 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 18:34:56.9340 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 18:34:56.9340 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 18:34:56.9388 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 18:34:56.9898 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 18:34:56.9942 Info Configuration initialized.
+2024-08-08 18:48:42.9077 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 18:48:42.9199 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 18:48:42.9393 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 18:48:42.9393 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 18:48:42.9393 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 18:48:42.9440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 18:48:42.9921 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 18:48:42.9965 Info Configuration initialized.
+2024-08-08 18:56:18.9161 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 18:56:18.9303 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 18:56:18.9534 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 18:56:18.9536 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 18:56:18.9536 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 18:56:18.9590 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 18:56:19.0159 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 18:56:19.0214 Info Configuration initialized.
+2024-08-08 19:01:38.3548 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:01:38.3688 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:01:38.3915 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:01:38.3915 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:01:38.3923 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:01:38.3974 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:01:38.4583 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:01:38.4632 Info Configuration initialized.
+2024-08-08 19:04:31.7101 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:04:31.7224 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:04:31.7424 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:04:31.7424 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:04:31.7424 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:04:31.7475 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:04:31.7997 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:04:31.8038 Info Configuration initialized.
+2024-08-08 19:10:08.2049 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:10:08.2230 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:10:08.2458 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:10:08.2458 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:10:08.2458 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:10:08.2516 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:10:08.3045 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:10:08.3088 Info Configuration initialized.
+2024-08-08 19:10:40.6202 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:10:40.6366 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:10:40.6599 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:10:40.6601 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:10:40.6601 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:10:40.6659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:10:40.7268 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:10:40.7313 Info Configuration initialized.
+2024-08-08 19:20:20.6665 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:20:20.6794 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:20:20.7006 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:20:20.7006 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:20:20.7006 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:20:20.7058 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:20:20.7604 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:20:20.7647 Info Configuration initialized.
+2024-08-08 19:26:58.0465 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:26:58.0597 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:26:58.0800 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:26:58.0802 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:26:58.0802 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:26:58.0851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:26:58.1329 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:26:58.1372 Info Configuration initialized.
+2024-08-08 19:26:58.6385 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:26:58.6422 Info LogFactory has been closed.
+2024-08-08 19:27:07.4262 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:27:07.4395 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:27:07.4602 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:27:07.4602 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:27:07.4602 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:27:07.4653 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:27:07.5166 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:27:07.5210 Info Configuration initialized.
+2024-08-08 19:37:23.8898 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:37:23.9016 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:37:23.9208 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:37:23.9208 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:37:23.9214 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:37:23.9256 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:37:23.9748 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:37:23.9789 Info Configuration initialized.
+2024-08-08 19:37:24.4466 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:37:24.4500 Info LogFactory has been closed.
+2024-08-08 19:45:42.9996 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:45:43.0128 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:45:43.0332 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:45:43.0332 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:45:43.0332 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:45:43.0384 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:45:43.0898 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:45:43.0939 Info Configuration initialized.
+2024-08-08 19:45:43.5683 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:45:43.5721 Info LogFactory has been closed.
+2024-08-08 19:47:45.0552 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:47:45.0687 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:47:45.0891 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:47:45.0895 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:47:45.0895 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:47:45.0944 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:47:45.1454 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:47:45.1495 Info Configuration initialized.
+2024-08-08 19:48:47.8747 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:48:47.8873 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:48:47.9073 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:48:47.9073 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:48:47.9080 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:48:47.9126 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:48:47.9634 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:48:47.9678 Info Configuration initialized.
+2024-08-08 19:50:05.2754 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 19:50:05.2882 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 19:50:05.3085 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 19:50:05.3085 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 19:50:05.3092 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 19:50:05.3138 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:50:05.3630 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 19:50:05.3676 Info Configuration initialized.
+2024-08-08 20:04:57.4747 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 20:04:57.4878 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 20:04:57.5075 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 20:04:57.5077 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 20:04:57.5077 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 20:04:57.5124 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 20:04:57.5656 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 20:04:57.5701 Info Configuration initialized.
+2024-08-08 20:06:37.0692 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 20:06:37.0813 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 20:06:37.1009 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 20:06:37.1009 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 20:06:37.1009 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 20:06:37.1058 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 20:06:37.1524 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 20:06:37.1566 Info Configuration initialized.
+2024-08-08 20:06:37.6158 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 20:06:37.6193 Info LogFactory has been closed.
+2024-08-08 20:08:00.6964 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 20:08:00.7095 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 20:08:00.7298 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 20:08:00.7298 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 20:08:00.7305 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 20:08:00.7349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 20:08:00.7846 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 20:08:00.7892 Info Configuration initialized.
+2024-08-08 20:08:01.3061 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 20:08:01.3100 Info LogFactory has been closed.
+2024-08-08 20:14:36.7504 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 20:14:36.7639 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 20:14:36.7853 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 20:14:36.7853 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 20:14:36.7861 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 20:14:36.7908 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 20:14:36.8413 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 20:14:36.8460 Info Configuration initialized.
+2024-08-08 20:14:37.4064 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 20:14:37.4104 Info LogFactory has been closed.
+2024-08-08 20:16:57.1967 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 20:16:57.2100 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 20:16:57.2313 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 20:16:57.2315 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 20:16:57.2315 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 20:16:57.2368 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 20:16:57.2891 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 20:16:57.2938 Info Configuration initialized.
+2024-08-08 20:17:35.6724 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-08 20:17:35.6874 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-08 20:17:35.7073 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-08 20:17:35.7073 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-08 20:17:35.7073 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-08 20:17:35.7124 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 20:17:35.7618 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-08 20:17:35.7662 Info Configuration initialized.
+2024-08-09 21:21:18.5411 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-09 21:21:18.5587 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-09 21:21:18.5801 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-09 21:21:18.5804 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-09 21:21:18.5804 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-09 21:21:18.5856 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-09 21:21:18.6354 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-09 21:21:18.6402 Info Configuration initialized.
+2024-08-09 21:23:26.4127 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-09 21:23:26.4254 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-09 21:23:26.4466 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-09 21:23:26.4466 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-09 21:23:26.4474 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-09 21:23:26.4524 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-09 21:23:26.5025 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-09 21:23:26.5073 Info Configuration initialized.
+2024-08-09 21:33:49.4611 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-09 21:33:49.4743 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-09 21:33:49.4960 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-09 21:33:49.4962 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-09 21:33:49.4962 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-09 21:33:49.5015 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-09 21:33:49.5510 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-09 21:33:49.5554 Info Configuration initialized.
+2024-08-09 21:34:16.0310 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-09 21:34:16.0439 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-09 21:34:16.0654 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-09 21:34:16.0654 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-09 21:34:16.0662 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-09 21:34:16.0711 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-09 21:34:16.1204 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-09 21:34:16.1249 Info Configuration initialized.
+2024-08-10 08:27:20.8589 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 08:27:20.8734 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 08:27:20.8951 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 08:27:20.8951 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 08:27:20.8959 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 08:27:20.9005 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 08:27:20.9493 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 08:27:20.9534 Info Configuration initialized.
+2024-08-10 08:30:55.3666 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 08:30:55.3786 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 08:30:55.4291 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 08:30:55.4298 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 08:30:55.4307 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 08:30:55.4375 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 08:30:55.4884 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 08:30:55.4927 Info Configuration initialized.
+2024-08-10 08:30:55.6064 Info AppDomain Shutting down. LogFactory closing...
+2024-08-10 08:30:55.6087 Info LogFactory has been closed.
+2024-08-10 08:35:31.6789 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 08:35:31.6922 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 08:35:31.7141 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 08:35:31.7141 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 08:35:31.7150 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 08:35:31.7195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 08:35:31.7693 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 08:35:31.7736 Info Configuration initialized.
+2024-08-10 08:35:32.2936 Info AppDomain Shutting down. LogFactory closing...
+2024-08-10 08:35:32.2976 Info LogFactory has been closed.
+2024-08-10 08:36:15.3394 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 08:36:15.3533 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 08:36:15.3755 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 08:36:15.3755 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 08:36:15.3763 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 08:36:15.3809 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 08:36:15.4383 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 08:36:15.4430 Info Configuration initialized.
+2024-08-10 08:36:59.0454 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 08:36:59.0589 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 08:36:59.0802 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 08:36:59.0804 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 08:36:59.0804 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 08:36:59.0856 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 08:36:59.1366 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 08:36:59.1411 Info Configuration initialized.
+2024-08-10 08:43:38.2276 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 08:43:38.2455 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 08:43:38.2689 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 08:43:38.2689 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 08:43:38.2696 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 08:43:38.2740 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 08:43:38.3290 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 08:43:38.3342 Info Configuration initialized.
+2024-08-10 08:48:29.0882 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 08:48:29.1168 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 08:48:29.1505 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 08:48:29.1509 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 08:48:29.1509 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 08:48:29.1564 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 08:48:29.2129 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 08:48:29.2191 Info Configuration initialized.
+2024-08-10 09:00:25.0654 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:00:25.0894 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:00:25.1252 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:00:25.1252 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:00:25.1265 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:00:25.1321 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:00:25.1874 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:00:25.1940 Info Configuration initialized.
+2024-08-10 09:01:44.3379 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:01:44.3553 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:01:44.3794 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:01:44.3795 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:01:44.3795 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:01:44.3843 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:01:44.4382 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:01:44.4427 Info Configuration initialized.
+2024-08-10 09:01:51.3251 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:01:51.3481 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:01:51.3794 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:01:51.3796 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:01:51.3807 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:01:51.3860 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:01:51.4403 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:01:51.4461 Info Configuration initialized.
+2024-08-10 09:02:07.2183 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:02:07.2404 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:02:07.2697 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:02:07.2697 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:02:07.2710 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:02:07.2763 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:02:07.3325 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:02:07.3386 Info Configuration initialized.
+2024-08-10 09:05:12.5539 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:05:12.5781 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:05:12.6094 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:05:12.6100 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:05:12.6100 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:05:12.6158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:05:12.6726 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:05:12.6793 Info Configuration initialized.
+2024-08-10 09:07:37.0962 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:07:37.1195 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:07:37.1526 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:07:37.1526 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:07:37.1537 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:07:37.1594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:07:37.2182 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:07:37.2244 Info Configuration initialized.
+2024-08-10 09:24:12.3021 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:24:12.3233 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:24:12.3524 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:24:12.3527 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:24:12.3527 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:24:12.3585 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:24:12.4123 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:24:12.4179 Info Configuration initialized.
+2024-08-10 09:27:59.7142 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:27:59.7481 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:27:59.7810 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:27:59.7810 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:27:59.7825 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:27:59.7894 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:27:59.8486 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:27:59.8557 Info Configuration initialized.
+2024-08-10 09:32:43.8098 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-10 09:32:43.8389 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-10 09:32:43.8723 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-10 09:32:43.8723 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-10 09:32:43.8735 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-10 09:32:43.8786 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 09:32:43.9401 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-10 09:32:43.9474 Info Configuration initialized.
+2024-08-11 20:44:31.3643 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-11 20:44:31.3910 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-11 20:44:31.4239 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-11 20:44:31.4239 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-11 20:44:31.4251 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-11 20:44:31.4302 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-11 20:44:31.5335 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-11 20:44:31.5393 Info Configuration initialized.
+2024-08-14 14:48:27.7989 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 14:48:27.8311 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 14:48:27.8612 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 14:48:27.8612 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 14:48:27.8622 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 14:48:27.8671 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 14:48:27.9198 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 14:48:27.9257 Info Configuration initialized.
+2024-08-14 15:05:01.3329 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:05:01.3539 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:05:01.3821 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:05:01.3821 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:05:01.3831 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:05:01.3879 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:05:01.4407 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:05:01.4463 Info Configuration initialized.
+2024-08-14 15:05:35.0854 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:05:35.1070 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:05:35.1373 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:05:35.1380 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:05:35.1388 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:05:35.1443 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:05:35.1999 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:05:35.2058 Info Configuration initialized.
+2024-08-14 15:11:24.9131 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:11:24.9349 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:11:24.9661 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:11:24.9661 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:11:24.9673 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:11:24.9725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:11:25.0260 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:11:25.0318 Info Configuration initialized.
+2024-08-14 15:12:15.3398 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:12:15.3631 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:12:15.3934 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:12:15.3934 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:12:15.3946 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:12:15.4000 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:12:15.4530 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:12:15.4592 Info Configuration initialized.
+2024-08-14 15:13:14.0990 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:13:14.1131 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:13:14.1346 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:13:14.1348 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:13:14.1348 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:13:14.1400 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:13:14.1925 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:13:14.1970 Info Configuration initialized.
+2024-08-14 15:13:19.7252 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:13:19.7454 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:13:19.7738 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:13:19.7738 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:13:19.7749 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:13:19.7800 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:13:19.8317 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:13:19.8373 Info Configuration initialized.
+2024-08-14 15:17:42.3358 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:17:42.3571 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:17:42.3857 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:17:42.3857 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:17:42.3868 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:17:42.3917 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:17:42.4457 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:17:42.4518 Info Configuration initialized.
+2024-08-14 15:18:12.8991 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:18:12.9174 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:18:12.9411 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:18:12.9411 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:18:12.9420 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:18:12.9466 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:18:13.0026 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:18:13.0072 Info Configuration initialized.
+2024-08-14 15:20:14.7884 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:20:14.8011 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:20:14.8211 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:20:14.8211 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:20:14.8218 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:20:14.8261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:20:14.8763 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:20:14.8804 Info Configuration initialized.
+2024-08-14 15:25:13.2167 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:25:13.2299 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:25:13.2505 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:25:13.2505 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:25:13.2512 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:25:13.2556 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:25:13.3098 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:25:13.3143 Info Configuration initialized.
+2024-08-14 15:35:15.2699 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:35:15.2823 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:35:15.3023 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:35:15.3026 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:35:15.3026 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:35:15.3071 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:35:15.3572 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:35:15.3614 Info Configuration initialized.
+2024-08-14 15:36:47.5108 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:36:47.5245 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:36:47.5449 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:36:47.5449 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:36:47.5449 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:36:47.5501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:36:47.6010 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:36:47.6052 Info Configuration initialized.
+2024-08-14 15:38:12.0654 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 15:38:12.0862 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 15:38:12.1207 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 15:38:12.1211 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 15:38:12.1211 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 15:38:12.1277 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:38:12.1862 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 15:38:12.1909 Info Configuration initialized.
+2024-08-14 16:17:32.2166 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:17:32.2286 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:17:32.2480 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:17:32.2480 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:17:32.2480 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:17:32.2529 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:17:32.3015 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:17:32.3057 Info Configuration initialized.
+2024-08-14 16:29:15.7646 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:29:15.7779 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:29:15.7990 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:29:15.7990 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:29:15.7997 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:29:15.8043 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:29:15.8566 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:29:15.8614 Info Configuration initialized.
+2024-08-14 16:33:51.8299 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:33:51.8442 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:33:51.8653 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:33:51.8653 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:33:51.8661 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:33:51.8707 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:33:51.9238 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:33:51.9283 Info Configuration initialized.
+2024-08-14 16:34:40.4564 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:34:40.4689 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:34:40.4894 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:34:40.4894 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:34:40.4900 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:34:40.4943 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:34:40.5611 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:34:40.5657 Info Configuration initialized.
+2024-08-14 16:41:56.6053 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:41:56.6184 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:41:56.6400 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:41:56.6404 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:41:56.6404 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:41:56.6455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:41:56.6971 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:41:56.7019 Info Configuration initialized.
+2024-08-14 16:45:06.9128 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:45:06.9259 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:45:06.9469 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:45:06.9469 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:45:06.9476 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:45:06.9522 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:45:07.0027 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:45:07.0072 Info Configuration initialized.
+2024-08-14 16:47:44.7335 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:47:44.7458 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:47:44.7662 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:47:44.7665 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:47:44.7665 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:47:44.7713 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:47:44.8218 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:47:44.8259 Info Configuration initialized.
+2024-08-14 16:48:41.9349 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:48:41.9481 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:48:41.9676 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:48:41.9676 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:48:41.9676 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:48:41.9724 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:48:42.0219 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:48:42.0260 Info Configuration initialized.
+2024-08-14 16:49:03.4154 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:49:03.4275 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:49:03.4468 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:49:03.4468 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:49:03.4468 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:49:03.4517 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:49:03.4999 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:49:03.5040 Info Configuration initialized.
+2024-08-14 16:50:35.0521 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:50:35.0651 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:50:35.0857 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:50:35.0857 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:50:35.0857 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:50:35.0911 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:50:35.1411 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:50:35.1453 Info Configuration initialized.
+2024-08-14 16:51:08.1357 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:51:08.1481 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:51:08.1675 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:51:08.1675 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:51:08.1681 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:51:08.1723 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:51:08.2286 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:51:08.2328 Info Configuration initialized.
+2024-08-14 16:53:45.9868 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:53:46.0003 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:53:46.0212 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:53:46.0212 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:53:46.0218 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:53:46.0263 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:53:46.0748 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:53:46.0793 Info Configuration initialized.
+2024-08-14 16:59:07.2614 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 16:59:07.2761 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 16:59:07.2967 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 16:59:07.2970 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 16:59:07.2970 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 16:59:07.3019 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:59:07.3530 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 16:59:07.3575 Info Configuration initialized.
+2024-08-14 17:00:09.4972 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 17:00:09.5099 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 17:00:09.5296 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 17:00:09.5296 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 17:00:09.5296 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 17:00:09.5347 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 17:00:09.5855 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 17:00:09.5897 Info Configuration initialized.
+2024-08-14 17:00:39.0512 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 17:00:39.0637 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 17:00:39.0846 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 17:00:39.0846 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 17:00:39.0846 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 17:00:39.0898 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 17:00:39.1402 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 17:00:39.1443 Info Configuration initialized.
+2024-08-14 17:01:02.1378 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 17:01:02.1504 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 17:01:02.1705 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 17:01:02.1706 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 17:01:02.1706 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 17:01:02.1754 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 17:01:02.2252 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 17:01:02.2294 Info Configuration initialized.
+2024-08-14 17:02:25.0452 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 17:02:25.0577 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 17:02:25.0775 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 17:02:25.0775 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 17:02:25.0781 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 17:02:25.0824 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 17:02:25.1318 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 17:02:25.1360 Info Configuration initialized.
+2024-08-14 17:03:10.8868 Info Loading assembly name: NLog.Web.AspNetCore
+2024-08-14 17:03:10.8995 Info NLog.Web.AspNetCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.11.1082. Product version: 5.3.11+6a33919b2cf5fd3206f473d2230556ffa0b67d67. GlobalAssemblyCache: False
+2024-08-14 17:03:10.9198 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-14 17:03:10.9201 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-14 17:03:10.9201 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-08-14 17:03:10.9248 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 17:03:10.9739 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/bin/Debug/net6.0/NLog.config
+2024-08-14 17:03:10.9785 Info Configuration initialized.

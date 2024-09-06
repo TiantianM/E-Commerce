@@ -1,0 +1,175 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+/* Search Box */
+.search-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.search-box input {
+  width: 70%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.search-box button {
+  padding: 10px;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-item {
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.product-item img {
+  width: 100%;
+}
+
+.product-item h2 {
+  font-size: large;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.product-item p {
+  font-size: small;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.product-item a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.product-item a:hover {
+  background-color: #0056b3;
+}
+
+.form-inline {
+  display: flex;
+  align-items: center;
+}
+
+.form-control {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.update-cart-item,
+.remove-cart-item {
+  flex: 0 0 auto;
+  width: 100px; /* Make both buttons the same size */
+}
+
+.update-cart-item {
+  margin-right: 10px; /* Add some space between the buttons */
+}
+
+.remove-cart-item {
+  background-color: red;
+  color: white;
+}
+
+.update-cart-item {
+  background-color: blue;
+  color: white;
+}
+
+.nav-cart .cart-icon {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background: url("/images/cart.jpg") no-repeat center center;
+  background-size: contain;
+  margin-right: 10px;
+}
+
+.nav-cart .item-count {
+  position: absolute;
+  top: -5px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 8px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.cat-filter {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.product-item a,
+.cat-btn {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.product-item a:hover,
+.cat-btn:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,135 @@
+@using MengGrocery.Models 
+@model CheckoutViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers 
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+    <h1>Checkout</h1>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <form asp-area="Checkout" asp-action="Submit" asp-controller="Checkout" method="post">
+        @Html.AntiForgeryToken()
+
+        <div>
+                @Html.LabelFor(m => m.Email)
+                @Html.TextBoxFor(m => m.Email)
+                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>
+        <div class="shipping-section">
+            <div>
+                @Html.LabelFor(m => m.ShippingFirstName)
+                @Html.TextBoxFor(m => m.ShippingFirstName)
+                @Html.ValidationMessageFor(m => m.ShippingFirstName, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.ShippingLastName)
+                @Html.TextBoxFor(m => m.ShippingLastName)
+                @Html.ValidationMessageFor(m => m.ShippingLastName, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.ShippingAddress)
+                @Html.TextBoxFor(m => m.ShippingAddress)
+                @Html.ValidationMessageFor(m => m.ShippingAddress, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.ShippingCity)
+                @Html.TextBoxFor(m => m.ShippingCity)
+                @Html.ValidationMessageFor(m => m.ShippingCity, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.ShippingState)
+                @Html.TextBoxFor(m => m.ShippingState)
+                @Html.ValidationMessageFor(m => m.ShippingState, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.ShippingZipCode)
+                @Html.TextBoxFor(m => m.ShippingZipCode)
+                @Html.ValidationMessageFor(m => m.ShippingZipCode, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.ShippingCountry)
+                @Html.DropDownListFor(m => m.ShippingCountry, new SelectList(Model.Countries, Model.ShippingCountry))
+                @Html.ValidationMessageFor(m => m.ShippingCountry, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.ShippingPhoneNumber)
+                @Html.TextBoxFor(m => m.ShippingPhoneNumber)
+                @Html.ValidationMessageFor(m => m.ShippingPhoneNumber, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div>
+            <label>@Html.LabelFor(m => m.BillingSameAsShipping)</label>
+            @Html.CheckBoxFor(m => m.BillingSameAsShipping)
+        </div>
+
+
+
+        <div class="billing-section">
+            <div>
+                @Html.LabelFor(m => m.BillingFirstName)
+                @Html.TextBoxFor(m => m.BillingFirstName)
+                @Html.ValidationMessageFor(m => m.BillingFirstName, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.BillingLastName)
+                @Html.TextBoxFor(m => m.BillingLastName)
+                @Html.ValidationMessageFor(m => m.BillingLastName, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.BillingAddress)
+                @Html.TextBoxFor(m => m.BillingAddress)
+                @Html.ValidationMessageFor(m => m.BillingAddress, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.BillingCity)
+                @Html.TextBoxFor(m => m.BillingCity)
+                @Html.ValidationMessageFor(m => m.BillingCity, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.BillingState)
+                @Html.TextBoxFor(m => m.BillingState)
+                @Html.ValidationMessageFor(m => m.BillingState, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.BillingZipCode)
+                @Html.TextBoxFor(m => m.BillingZipCode)
+                @Html.ValidationMessageFor(m => m.BillingZipCode, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.BillingCountry)
+                @Html.DropDownListFor(m => m.BillingCountry, new SelectList(Model.Countries, Model.BillingCountry))
+                @Html.ValidationMessageFor(m => m.BillingCountry, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                @Html.LabelFor(m => m.BillingPhoneNumber)
+                @Html.TextBoxFor(m => m.BillingPhoneNumber)
+                @Html.ValidationMessageFor(m => m.BillingPhoneNumber, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        
+        
+        <div>
+            @Html.LabelFor(m => m.CardNumber)
+            @Html.TextBoxFor(m => m.CardNumber)
+            @Html.ValidationMessageFor(m => m.CardNumber, "", new { @class = "text-danger" })
+            </div>
+            <div>
+            @Html.LabelFor(m => m.ExpirationDate)
+            @Html.TextBoxFor(m => m.ExpirationDate, new { placeholder = "ex: 07/2028"})
+            @Html.ValidationMessageFor(m => m.ExpirationDate, "", new { @class = "text-danger"} )
+        </div>
+
+        <button type="submit">Place Order</button>
+    </form>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

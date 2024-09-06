@@ -1,0 +1,36 @@
+@using MengGrocery.Models 
+@model CartViewModel 
+
+
+
+@if (Model != null && Model.CartItems != null && Model.CartItems.Count > 0)
+{
+
+    @foreach (var item in Model.CartItems)
+    {
+        <div class="cart-item mb-3 p-3 border rounded">
+        
+            <h4 class="product-name">@item.ProductName</h4>
+
+            <form action="/cart/UpdateItem" method="post" class="form-inline">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="ProductID" value="@item.ProductID" />
+                <input type="number" name="Quantity" value="@item.Quantity" min="1" class="form-control mr-2" />
+                <button type="submit" class="btn btn-primary update-cart-item">Update</button>
+            </form>
+
+            <form action="/cart/RemoveItem" method="post" class="form-inline">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="ProductID" value="@item.ProductID" />
+                <button type="submit" class="btn btn-danger remove-cart-item">Remove</button> 
+            </form>
+            @* <a href="/Cart/RemoveItem/@item.ProductID" class="btn btn-danger mt-2 remove-cart-item">Remove</a> *@
+
+        </div>
+    }
+}
+else{
+    <p>No items in cart.</p>
+} 
+
+

@@ -1,0 +1,372 @@
+2024-08-14 14:48:28.8050|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 14:48:28.8112|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 14:48:28.8112|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 14:48:28.8123|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 14:48:30.1317|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:05:02.2224|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:05:02.2278|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:05:02.2278|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:05:02.2289|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:05:02.3486|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:05:36.0604|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:05:36.0661|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:05:36.0661|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:05:36.0673|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:05:36.2109|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:11:25.8881|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:11:25.8937|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:11:25.8942|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:11:25.8942|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:11:26.0958|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:12:16.3131|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:12:16.3185|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:12:16.3185|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:12:16.3195|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:12:16.4688|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:13:20.6378|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:13:20.6431|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:13:20.6431|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:13:20.6443|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:13:20.7630|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:17:43.3056|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:17:43.3114|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:17:43.3133|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:17:43.3156|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:17:43.6019|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:18:13.6002|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:18:13.6027|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:18:13.6027|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:18:13.6027|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:18:13.7025|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:20:15.4215|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:20:15.4240|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:20:15.4240|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:20:15.4240|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:20:15.5239|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:20:29.3985|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Data.DataException: Error parsing column 0 (SUM(Quantity)=<null>)
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Dapper.SqlMapper.GetValue[T](DbDataReader reader, Type effectiveType, Object val) in /_/Dapper/SqlMapper.cs:line 1365
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in /_/Dapper/SqlMapper.cs:line 3928
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1288
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 857
+   at MengGrocery.DAL.CartQuery.GetCartItemCount(String cartGuidId) in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/DAL/CartQuery.cs:line 170
+   at CartController.GetCartItemCount() in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/Areas/Cart/Controllers/CartController.cs:line 137
+   at lambda_method31(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: |action: 
+2024-08-14 15:20:33.0689|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Data.DataException: Error parsing column 0 (SUM(Quantity)=<null>)
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Dapper.SqlMapper.GetValue[T](DbDataReader reader, Type effectiveType, Object val) in /_/Dapper/SqlMapper.cs:line 1365
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in /_/Dapper/SqlMapper.cs:line 3928
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1288
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 857
+   at MengGrocery.DAL.CartQuery.GetCartItemCount(String cartGuidId) in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/DAL/CartQuery.cs:line 170
+   at CartController.GetCartItemCount() in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/Areas/Cart/Controllers/CartController.cs:line 137
+   at lambda_method31(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: |action: 
+2024-08-14 15:20:35.1529|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Data.DataException: Error parsing column 0 (SUM(Quantity)=<null>)
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Dapper.SqlMapper.GetValue[T](DbDataReader reader, Type effectiveType, Object val) in /_/Dapper/SqlMapper.cs:line 1365
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in /_/Dapper/SqlMapper.cs:line 3928
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1288
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 857
+   at MengGrocery.DAL.CartQuery.GetCartItemCount(String cartGuidId) in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/DAL/CartQuery.cs:line 170
+   at CartController.GetCartItemCount() in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/Areas/Cart/Controllers/CartController.cs:line 137
+   at lambda_method31(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: |action: 
+2024-08-14 15:20:43.6723|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Data.DataException: Error parsing column 0 (SUM(Quantity)=<null>)
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Dapper.SqlMapper.GetValue[T](DbDataReader reader, Type effectiveType, Object val) in /_/Dapper/SqlMapper.cs:line 1365
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in /_/Dapper/SqlMapper.cs:line 3928
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1288
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 857
+   at MengGrocery.DAL.CartQuery.GetCartItemCount(String cartGuidId) in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/DAL/CartQuery.cs:line 170
+   at CartController.GetCartItemCount() in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/Areas/Cart/Controllers/CartController.cs:line 137
+   at lambda_method31(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: |action: 
+2024-08-14 15:20:44.9760|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Data.DataException: Error parsing column 0 (SUM(Quantity)=<null>)
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Dapper.SqlMapper.GetValue[T](DbDataReader reader, Type effectiveType, Object val) in /_/Dapper/SqlMapper.cs:line 1365
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in /_/Dapper/SqlMapper.cs:line 3928
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1288
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 857
+   at MengGrocery.DAL.CartQuery.GetCartItemCount(String cartGuidId) in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/DAL/CartQuery.cs:line 170
+   at CartController.GetCartItemCount() in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/Areas/Cart/Controllers/CartController.cs:line 137
+   at lambda_method31(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: |action: 
+2024-08-14 15:25:13.8715|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:25:13.8738|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:25:13.8738|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:25:13.8743|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:25:13.9868|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:35:15.8974|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:35:15.8998|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:35:15.8998|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:35:15.8998|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:35:16.0112|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:36:48.1812|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:36:48.1838|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:36:48.1838|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:36:48.1838|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:36:48.2794|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 15:38:12.7724|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 15:38:12.7752|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 15:38:12.7752|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 15:38:12.7752|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 15:38:12.8899|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:17:32.8508|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:17:32.8532|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:17:32.8532|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:17:32.8532|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:17:32.9987|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:29:16.4322|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:29:16.4346|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:29:16.4346|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:29:16.4349|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:29:16.6295|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:33:52.4935|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:33:52.4960|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:33:52.4960|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:33:52.4960|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:33:52.6359|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:33:59.8363|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Data.DataException: Error parsing column 0 (SUM(Quantity)=<null>)
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Dapper.SqlMapper.GetValue[T](DbDataReader reader, Type effectiveType, Object val) in /_/Dapper/SqlMapper.cs:line 1365
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in /_/Dapper/SqlMapper.cs:line 3928
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1288
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 857
+   at MengGrocery.DAL.CartQuery.GetCartItemCount(String cartGuidId) in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/DAL/CartQuery.cs:line 170
+   at CartController.GetCartItemCount() in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/Areas/Cart/Controllers/CartController.cs:line 155
+   at lambda_method31(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: |action: 
+2024-08-14 16:34:01.5424|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Data.DataException: Error parsing column 0 (SUM(Quantity)=<null>)
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Dapper.SqlMapper.GetValue[T](DbDataReader reader, Type effectiveType, Object val) in /_/Dapper/SqlMapper.cs:line 1365
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in /_/Dapper/SqlMapper.cs:line 3928
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1288
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 857
+   at MengGrocery.DAL.CartQuery.GetCartItemCount(String cartGuidId) in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/DAL/CartQuery.cs:line 170
+   at CartController.GetCartItemCount() in /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/Areas/Cart/Controllers/CartController.cs:line 155
+   at lambda_method31(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: |action: 
+2024-08-14 16:34:41.1218|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:34:41.1241|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:34:41.1241|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:34:41.1241|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:34:41.2903|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:41:57.2693|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:41:57.2720|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:41:57.2720|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:41:57.2725|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:41:57.4365|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:45:07.5751|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:45:07.5777|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:45:07.5777|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:45:07.5777|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:45:07.6759|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:47:45.3689|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:47:45.3714|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:47:45.3714|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:47:45.3717|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:47:45.5112|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:48:42.5718|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:48:42.5741|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:48:42.5741|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:48:42.5741|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:48:42.7343|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:49:04.0539|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:49:04.0560|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:49:04.0560|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:49:04.0560|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:49:04.1748|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:50:35.6965|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:50:35.6990|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:50:35.6990|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:50:35.6990|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:50:35.8193|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:51:08.8076|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:51:08.8099|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:51:08.8099|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:51:08.8103|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:51:08.9454|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:53:46.6324|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:53:46.6349|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:53:46.6349|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:53:46.6349|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:53:46.8013|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 16:59:07.9112|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 16:59:07.9137|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 16:59:07.9137|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 16:59:07.9141|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 16:59:08.0646|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 17:00:10.1426|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 17:00:10.1450|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 17:00:10.1450|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 17:00:10.1454|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 17:00:10.3348|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 17:00:39.7028|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 17:00:39.7050|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 17:00:39.7050|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 17:00:39.7054|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 17:00:39.8779|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 17:01:02.7929|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 17:01:02.7953|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 17:01:02.7953|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 17:01:02.7957|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 17:01:02.9123|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 17:02:25.6978|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 17:02:25.7006|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 17:02:25.7006|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 17:02:25.7011|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 17:02:25.8596|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 
+2024-08-14 17:03:11.5417|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5129 |url: |action: 
+2024-08-14 17:03:11.5440|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-08-14 17:03:11.5441|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-08-14 17:03:11.5441|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/tiantian/Desktop/WorkSpace/MengGrocery/MengGrocery/ |url: |action: 
+2024-08-14 17:03:11.6969|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: |action: 

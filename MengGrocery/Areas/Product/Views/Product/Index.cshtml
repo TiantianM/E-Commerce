@@ -1,0 +1,104 @@
+@model ProductViewModel
+@using MengGrocery.Models
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+}
+
+
+@* add search box then can use .js to search products *@
+<div class="search-box">
+    <input type="text" class="search-input" placeholder="Search Products" />
+    <button class="search-btn btn-primary">Search</button>
+</div>
+
+
+<div class="cat-filter">
+
+   
+    <div>
+        <a class="cat-btn btn-primary" id="all-category" category="All">All</a>
+    </div>
+    <div >
+        <a class="cat-btn btn-primary" category="Fruits">Fruits</a>
+    </div>
+    <div>
+        <a class="cat-btn btn-primary" category="Dairy">Dairy</a>
+    </div>
+
+    <div >
+        <a class="cat-btn btn-primary" category="Bakery">Bakery</a>
+    </div>
+    <div >
+        <a class="cat-btn btn-primary" category="Grains">Grains</a>
+    </div>
+    <div >
+        <a class="cat-btn btn-primary" category="Vegetables">Vegetables</a>
+    </div>
+    <div >
+        <a class="cat-btn btn-primary" category="Meat">Meat</a>
+    </div>
+
+
+</div>
+
+@if(Model != null && Model.Products != null && Model.Products.Count > 0){
+
+    <div class="container product-page">
+        <h1>Products</h1>
+        <div class="product-list">
+
+            @for (int i =0; i < Model.Products.Count; i++) {
+                var product = Model.Products[i]; 
+
+                <div class="product-item">
+                    @if (i < 5) {
+                        <img src="@product.ImageUrl" alt="@product.ProductName" width="100px"/>
+                    }
+                    else {
+                        <img src="~/images/loading.jpg" data-src="@product.ImageUrl" alt="@product.ProductName" class="lazy-load" width="100px"/>
+                    }
+
+                    <h2 class="product-name">@product.ProductName</h2>
+                    <p>$@product.Price</p>
+                    <a href="/Cart/AddToCart?productId=@product.ProductId&quantity=1" class="add-to-cart" >Add to Cart</a>
+                    @* <a href="/Cart/AddToCart" class="add-to-cart" data-product-id="@product.ProductId" data-quantity="1">Add to Cart</a> *@
+                    
+
+                    <input type="hidden" name="category" value="@product.Category">
+                </div>
+
+
+            }
+        
+
+
+
+            @* @foreach (var product in Model.Products)
+            {
+                <div class="product-item">
+                    @
+
+                    <img src="~/images/loading.jpg" data-src="@product.ImageUrl" alt="@product.ProductName" class="lazy-load" width="100px"/>
+                    <h2 class="product-name">@product.ProductName</h2>
+                    <p>$@product.Price</p>
+                    <a href="/Cart/AddToCart?productId=@product.ProductId&quantity=1">Add to Cart</a>
+                    <input type="hidden" name="category" value="@product.Category">
+
+                </div>
+            } *@
+        </div>
+
+    </div>
+
+        
+}
+
+else{
+    <p>No products found.</p>
+}
+
+
+ 
